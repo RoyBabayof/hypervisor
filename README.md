@@ -1,2 +1,3 @@
-# hypervisor
-Programing a hypervisor from scratch on my os
+# Project Title
+Creating a type 1 hypervisor (bare metal)
+
